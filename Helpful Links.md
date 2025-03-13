@@ -17,3 +17,10 @@ Canonical Multtipass Links:
 Visual Studio Code:
   - Setup Remote Connects to systems for developement
     - https://code.visualstudio.com/docs/remote/ssh
+   
+Github:
+  - Clone Private Repo via SSH
+
+Working with SSH Keys:
+- Deploy Key to new server:
+  - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04  
