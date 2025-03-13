@@ -20,7 +20,15 @@ Visual Studio Code:
    
 Github:
   - Clone Private Repo via SSH
-
+    - https://stackoverflow.com/questions/2505096/clone-a-private-repository-github
+      
 Working with SSH Keys:
 - Deploy Key to new server:
   - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04  
+
+
+Things to followup on:
+  - Slurm
+    - https://en.wikipedia.org/wiki/Slurm_Workload_Manager
+  - Behave Framework
+    - https://github.com/behave/behave
