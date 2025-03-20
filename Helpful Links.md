@@ -21,6 +21,8 @@ Visual Studio Code:
 Github:
   - Clone Private Repo via SSH
     - https://stackoverflow.com/questions/2505096/clone-a-private-repository-github
+  - Learn Git
+    - https://www.boot.dev/courses/learn-git  
       
 Working with SSH Keys:
 - Deploy Key to new server:
