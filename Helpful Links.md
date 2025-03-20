@@ -26,9 +26,13 @@ Working with SSH Keys:
 - Deploy Key to new server:
   - https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-20-04  
 
+Jenkins:  
+  - Tutorials:  https://www.jenkins.io/doc/tutorials/
 
 Things to followup on:
   - Slurm
     - https://en.wikipedia.org/wiki/Slurm_Workload_Manager
+  - Slinky:  Slurm and K8s
+    -   https://slurm.schedmd.com/slinky.html
   - Behave Framework
     - https://github.com/behave/behave
