@@ -41,4 +41,6 @@ Things to followup on:
   - ROCv2
     - https://community.fs.com/article/an-indepth-guide-to-roce-v2-network.html
   -  AMD ROCM
-    - https://www.amd.com/en/products/software/rocm.html     
+    - https://www.amd.com/en/products/software/rocm.html
+  - SONIC
+    - https://github.com/sonic-net  
