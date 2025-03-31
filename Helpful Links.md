@@ -38,3 +38,7 @@ Things to followup on:
     -   https://slurm.schedmd.com/slinky.html
   - Behave Framework
     - https://github.com/behave/behave
+  - ROCv2
+    - https://community.fs.com/article/an-indepth-guide-to-roce-v2-network.html
+  -  AMD ROCM
+    - https://www.amd.com/en/products/software/rocm.html     
