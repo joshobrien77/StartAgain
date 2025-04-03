@@ -1,0 +1,5 @@
+StartAgain:Day17
+
+It is amazing that any tech works. After 3 weeks of dialing in an image build in Packer for GPU severs I made a minor change by adding a YAML file into the image.  And the build and it blew up because out of storage. I figured it was gonna be some obscure Qemu, Packer or cloud image issue and I chased it all day. After verifying all storage was right with lots of term echos and log messages I commented out the install for the item it was failing on. Build ran, cut 4.8 G and 15 min on the build time. I learned a few things. But the most important is that nightly builds and can be a massive change to static infra. I mean I knew this but knowing it and seeing it for the first time in forever is different. I also got a lesson from MLOps folks that nightly builds can be the key difference in an outcome. This space is moving fast and for sure breaking things. 
+
+What are the take aways?  I think that I need to focus on fast stable reproducible images and layer on complexity with config automation. Need to discuss this with the team. But for now my image builds and the software deploys seamlessly as a post deployment script. 
