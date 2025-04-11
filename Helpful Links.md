@@ -43,4 +43,8 @@ Things to followup on:
   -  AMD ROCM
     - https://www.amd.com/en/products/software/rocm.html
   - SONIC
-    - https://github.com/sonic-net  
+    - https://github.com/sonic-net
+  - Teleplort (Central Auth platform)
+    - https://goteleport.com/docs/feature-matrix/
+  - LDAP and Central Cert Based Auth
+    -https://smallstep.com/blog/use-ssh-certificates
